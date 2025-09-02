@@ -50,11 +50,11 @@ Here’s a simple script to remove the background and save the image as a transp
 
 🧠 Real-Life Use Cases:
 
-🔹 Content Creators – Create clean thumbnails with no distractions
-🔹 E-commerce Sellers – Present your products on plain or branded backgrounds
-🔹 Graphic Designers – Speed up the editing workflow
-🔹 Social Media Creators – Make standout posts with isolated subjects
-🧠 Bonus: How Does rembg Work?
+    🔹 Content Creators – Create clean thumbnails with no distractions
+    🔹 E-commerce Sellers – Present your products on plain or branded backgrounds
+    🔹 Graphic Designers – Speed up the editing workflow
+    🔹 Social Media Creators – Make standout posts with isolated subjects
+    🧠 Bonus: How Does rembg Work?
 
 
 🔁 What’s Next?
